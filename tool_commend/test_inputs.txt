@@ -1,0 +1,4 @@
+# format: url|username|password|parameter|command|data
+http://localhost/dvwa|admin|password|ip|whoami|Submit=Submit
+http://127.0.0.1/dvwa|admin|password|ip|ls|Submit=Submit
+http://testserver/dvwa|admin|password|ip|pwd|Submit=Submit&test=1

@@ -1,0 +1,5 @@
+# format: test_id|expected_pattern|description
+1|root|should return user root
+1|admin|should contain admin
+2|index.php|should list files
+3|var/www|should show current directory
